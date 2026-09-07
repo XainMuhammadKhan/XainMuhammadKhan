@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm Currently working on Different Flutter Projects<br>👯I'm Looking to work with reputable firms and clients on their projects and products<br>🤝I'm looking for help with connecting to clients<br>🌱I'm currently learning App development<br>💬Ask me about myself<br>⚡Fun fact : App development is my favourite type of product development
+🔭I'm Currently working on Different Projects<br>👯I'm Looking to work with reputable firms and clients on their projects and products<br>🤝I'm looking for help with connecting to clients<br>🌱I'm currently learning App development<br>💬Ask me about myself<br>⚡Fun fact : App development is my favourite type of product development
 
 
 ## 🌐 Socials:
